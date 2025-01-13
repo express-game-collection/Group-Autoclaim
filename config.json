@@ -1,7 +1,7 @@
 {
     "Config": {
         "selfbotToken": "679179248967090181",
-        "selfbotPrefix": ";",
+        "selfbotPrefix": ">>",
         "webhookURL": "https://discord.com/api/webhooks/1328245636344057888/CPuESHWaDJDvLLCRAvxVoy__eV8tRgA7EGVHqHihaRO52-Ew-ebpvJwbtxXFzqdPLMO1",
         "authedUsers": {
             "1": "566648367027978240"
