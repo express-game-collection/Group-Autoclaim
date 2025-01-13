@@ -1,10 +1,10 @@
 {
     "Config": {
-        "selfbotToken": "",
-        "selfbotPrefix": ">>",
-        "webhookURL": "https://discord.com/api/webhooks/",
+        "selfbotToken": "679179248967090181",
+        "selfbotPrefix": ";",
+        "webhookURL": "https://discord.com/api/webhooks/1328245636344057888/CPuESHWaDJDvLLCRAvxVoy__eV8tRgA7EGVHqHihaRO52-Ew-ebpvJwbtxXFzqdPLMO1",
         "authedUsers": {
-            "1": "0000"
+            "1": "566648367027978240"
         }
     },
     "Autoclaimer": {
@@ -14,8 +14,8 @@
         "enableAutoLeave": true,
         "claimLogging": true,
         "autoShout": {
-            "isEnabled": false,
-            "shoutMessage": ""
+            "isEnabled": true,
+            "shoutMessage": "Group under new ownership & management"
         },
         "autoGetAllConfigChannels": true,
         "finderChannelsIDs": {
